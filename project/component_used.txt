@@ -1,0 +1,9 @@
+1)xampp
+
+2) python
+{
+  database connection: pip install mysql-connector-python (if package is not installed)
+}
+
+3) CMD run with python, "python "file-location/index.py"
+ 
